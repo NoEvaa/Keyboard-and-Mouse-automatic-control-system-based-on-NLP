@@ -1,4 +1,4 @@
-#软件发布
+# 软件发布
 
 1.pyinstaller打包成exe(配置文件main.spec)
 
