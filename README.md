@@ -10,6 +10,6 @@
 
 
 <br><br><br>
-[NoEVaa](https://github.com/NoEvaa "悬停显示")
+[NoEVaa](https://github.com/NoEvaa "NoEVaa")
 <br>
-[YZgame](https://github.com/NoEvaa "悬停显示")
+[YZgame](https://github.com/NoEvaa "YZgame")
